@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dorian!
-- 🌱 I'm currently a software engineer at [Deezer](https://www.deezer.com/en/) in the [Research](https://research.deezer.com/) team.
-- 👀 We work on a variety of topics, such as [audio source separation](https://github.com/deezer/spleeter) and [beat tracking](https://github.com/deezer/zeroNoteSamba).
-- 💞️ Want to collaborate on anything AI, MIR, or engineering related? Hmu!
+- 🌱 I just started working at [Meta](https://www.meta.com/) in the [Fundamental AI Research (FAIR)](https://ai.meta.com/research/) team!
+- 👀 I was previously at [Deezer](https://www.deezer.com/en/) in the [Research](https://research.deezer.com/) team.
+- 💞️ Want to collaborate on anything audio, ML, or engineering related? Hmu!
 - 📫 You can reach me on [linkedin](https://www.linkedin.com/in/dorian-desblancs/).
 
 <!---
